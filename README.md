@@ -4,7 +4,7 @@ Next.js 학습용 TMDB 연동 영화 리뷰 백엔드 API입니다.
 
 ## 기술 스택
 
-- **Runtime**: Node.js 26
+- **Runtime**: Node.js 24
 - **Framework**: Express 5
 - **ORM**: Prisma 7 (PostgreSQL)
 - **API Docs**: Swagger UI

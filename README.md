@@ -4,13 +4,11 @@ Next.js 학습용 TMDB 연동 영화 리뷰 백엔드 API입니다.
 
 ## 기술 스택
 
-- **Runtime**: Node.js 26
+- **Runtime**: Node.js 24
 - **Framework**: Express 5
-- **ORM**: Prisma 7 (PostgreSQL)
+- **ORM**: Prisma 7.10.0 (PostgreSQL)
 - **API Docs**: Swagger UI
 - **Validation**: Zod
-
-Prisma 7의 설치 스크립트는 Node.js 20·22·24만 공식 지원 버전으로 안내하므로 Node.js 26에서 경고를 출력합니다. 이 지원 서버는 15기 기준인 Node.js 26.7.0에서 설치, Prisma Client 생성과 서버 실행을 검증했으며, 이 실행 결과를 Prisma의 Node.js 26 공식 지원 보장으로 해석하지 않습니다.
 
 ## 시작하기
 
